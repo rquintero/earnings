@@ -1,0 +1,11 @@
+.gradle/
+.idea/
+gradle/
+gradlew
+gradlew.bat
+settings.gradle
+!build
+build/*
+!build/libs/
+build/libs/*
+!build/libs/stock-1.0-SNAPSHOT.jar
